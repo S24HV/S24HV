@@ -1,18 +1,15 @@
 # Hi there, I'm S24HV! 👋
 
-I am a passionate Frontend Developer focused on creating clean, responsive, and user-friendly web applications. I love turning complex designs into high-quality code.
+I am an aspiring Cybersecurity Specialist focused on application security, ethical hacking, and building secure web systems. I bridge the gap between development and security.
 
-### 🛠️ Skills & Technologies
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Tools & Workflow:** Git, GitHub, VS Code
+### 🛡️ Cyber Security & Tech Stack
+- **Security Intersts:** Penetration Testing, Web Application Security, Network Security
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3 (Learning Python / Bash for scripting)
+- **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Featured Projects
 - 🛍️ [Store Project](https://github.com) - E-commerce platform built with TypeScript.
-- ✈️ [GoTrip](https://github.com) - Mobile-responsive landing page for travel agencies.
 
 ### 📫 Connect with me
 - **Email:** amirsuhov@gmail.com
-- **Steam:** [Steam Profile](https://https://steamcommunity.com)
-
----
-*“Consistency is the key to mastering code.”*
+- **Steam:** [Steam Profile](https://steamcommunity.com)
