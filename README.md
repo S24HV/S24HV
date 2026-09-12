@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm S24HV! 👋
 
-<!--
-**S24HV/S24HV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Frontend Developer focused on creating clean, responsive, and user-friendly web applications. I love turning complex designs into high-quality code.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Technologies
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript
+- **Tools & Workflow:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- 🛍️ [Store Project](https://github.com) - E-commerce platform built with TypeScript.
+- ✈️ [GoTrip](https://github.com) - Mobile-responsive landing page for travel agencies.
+
+### 📫 Connect with me
+- **Email:** amirsuhov@gmail.com
+- **Steam:** [Steam Profile](https://https://steamcommunity.com)
+
+---
+*“Consistency is the key to mastering code.”*
