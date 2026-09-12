@@ -12,4 +12,4 @@ I am an aspiring Cybersecurity Specialist focused on application security, ethic
 
 ### 📫 Connect with me
 - **Email:** amirsuhov@gmail.com
-- **Steam:** [Steam Profile](https://steamcommunity.com)
+- **Steam:** [Steam Profile](https://steamcommunity.com/id/S24HV/)
