@@ -14,8 +14,9 @@
 
 ### 🛡️ About Me
 
-- 🔭 Currently focused on **penetration testing** and **web application security**
-- 🌱 Learning **Python** and **Bash** for scripting and automation
+- 🎯 Currently **studying to become a Cybersecurity Specialist** — focused on penetration testing and web application security
+- 💻 Solid background in **frontend development** (JavaScript, TypeScript, HTML/CSS)
+- 🌱 Currently learning **Python** and **Bash** for scripting and automation — planning to go deeper into both
 - 🏠 Based in Tashkent, Uzbekistan
 - 📫 Reach me at **amirsuhov@gmail.com**
 
@@ -49,7 +50,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=S24HV&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=S24HV&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S24HV&layout=compact&theme=dark&hide_border=true" />
 </p>
 
