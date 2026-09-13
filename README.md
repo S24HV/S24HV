@@ -8,7 +8,7 @@ I am an aspiring Cybersecurity Specialist focused on application security, ethic
 - **Tools:** Git, GitHub, VS Code
 
 ### 🚀 Featured Projects
-- 🛍️ [Store Project](https://github.com) - E-commerce platform built with TypeScript.
+- 🛍️ [Store Project](s24hv.github.io/Store/) - E-commerce platform built with TypeScript.
 
 ### 📫 Connect with me
 - **Email:** amirsuhov@gmail.com
