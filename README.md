@@ -17,21 +17,8 @@
 </div>
 
 ## Stack
-<p>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=4EAA25" />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Penetration%20Testing-0d1117?style=flat-square&color=8b949e" />
-<img src="https://img.shields.io/badge/Web%20App%20Security-0d1117?style=flat-square&color=8b949e" />
-<img src="https://img.shields.io/badge/Network%20Security-0d1117?style=flat-square&color=8b949e" />
-</p>
+
+<img src="stack-animated.svg" width="100%" />
 
 ## Projects
 | Project | Description | Stack |
