@@ -1,119 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=S24HV&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Cybersecurity%20Specialist&descAlignY=65&descSize=18&descColor=9aa0a6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=160&section=header&text=S24HV&fontSize=48&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<a href="https://github.com/S24HV">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Application+Security+%26+Ethical+Hacking;Breaking+things+(safely)+to+understand+them;Frontend+Developer+%E2%86%92+Security+Researcher&font=Fira+Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=20" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Application+Security+%7C+Ethical+Hacking;Penetration+Testing+%7C+Web+App+Security;Builder+first.+Breaker+second.&font=JetBrains+Mono&center=true&width=520&height=40&color=8b949e&vCenter=true&size=16&pause=2000" />
 
-<p>
-  <a href="https://github.com/S24HV"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:amirsuhov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://steamcommunity.com/id/S24HV/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <a href="https://instagram.com/_s24hv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<br/>
+
+<a href="https://github.com/S24HV"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" /></a>
+<a href="mailto:amirsuhov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=c9d1d9" /></a>
+<a href="https://steamcommunity.com/id/S24HV/"><img src="https://img.shields.io/badge/STEAM-0d1117?style=flat-square&logo=steam&logoColor=c9d1d9" /></a>
+<a href="https://instagram.com/_s24hv_"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=c9d1d9" /></a>
 
 </div>
 
 <br/>
 
-## 🛡️ About Me
+### About
 
-> *"You can't secure what you don't understand how to build."*
+I started in frontend development and moved toward offensive and defensive security — that combination is the point: understanding how software is built makes it easier to understand how it breaks.
 
-I started out on the **development** side — shipping frontend apps with React and TypeScript — and I'm now moving deeper into **offensive & defensive security**. That mix is my edge: I don't just find that a form is vulnerable, I understand *why* the code makes it vulnerable.
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🔭 Currently focused on**
-Penetration testing & web application security — learning how real vulnerabilities (OWASP Top 10, auth flaws, injection, misconfig) actually get exploited, not just memorizing the names.
-
-**🌱 Currently learning**
-Python & Bash, to move from clicking buttons in tools to writing my own scripts and automating recon/exploitation workflows.
-
-</td>
-<td valign="top" width="50%">
-
-**🧠 Background**
-Frontend development (JavaScript, TypeScript, HTML/CSS) — which now doubles as an advantage: I can read and reason about the code I'm attacking.
-
-**🎯 Goal**
-Becoming a well-rounded Application Security specialist — someone teams trust to *both* build securely and break things safely before attackers do.
-
-</td>
-</tr>
-</table>
-
-- 🌍 Based in **Tashkent, Uzbekistan**
-- 📫 Reach me at **[amirsuhov@gmail.com](mailto:amirsuhov@gmail.com)**
-- ⚡ Fun fact: I'd rather find the bug myself than wait for a pentest report to tell me about it
+| | |
+|---|---|
+| **Focus** | Penetration testing, web application security |
+| **Learning** | Python, Bash — scripting and automation |
+| **Background** | JavaScript, TypeScript, HTML/CSS |
+| **Based in** | Tashkent, Uzbekistan |
+| **Contact** | [amirsuhov@gmail.com](mailto:amirsuhov@gmail.com) |
 
 <br/>
 
-## 🧰 Tech Stack
-
-**Security Interests**
-
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-1a1a1a?style=flat-square)
-![Web App Security](https://img.shields.io/badge/-Web%20App%20Security-1a1a1a?style=flat-square)
-![Network Security](https://img.shields.io/badge/-Network%20Security-1a1a1a?style=flat-square)
-
-**Languages & Tools**
+### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=4EAA25" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Penetration%20Testing-0d1117?style=flat-square&color=8b949e" />
+<img src="https://img.shields.io/badge/Web%20App%20Security-0d1117?style=flat-square&color=8b949e" />
+<img src="https://img.shields.io/badge/Network%20Security-0d1117?style=flat-square&color=8b949e" />
 </p>
 
 <br/>
 
-## 🚀 Featured Projects
+### Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/S24HV/Store"><b>Store</b></a></td>
-    <td>Modern e-commerce platform with a full shopping cart flow</td>
-    <td>React, TypeScript, Vite</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/S24HV/Portfolio"><b>Portfolio</b></a></td>
-    <td>Personal portfolio site showcasing projects and skills</td>
-    <td>TypeScript</td>
-  </tr>
-</table>
+| Project | Description | Stack |
+|---|---|---|
+| [**Store**](https://github.com/S24HV/Store) | E-commerce platform with a full shopping cart flow | React, TypeScript, Vite |
+| [**Portfolio**](https://github.com/S24HV/Portfolio) | Personal portfolio site | TypeScript |
 
 <br/>
 
-## 📊 GitHub Stats
+### Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S24HV&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S24HV&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="55%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=S24HV&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=S24HV&label=Profile+Views&color=0d1117&style=flat-square" />
 </div>
 
-<br/>
-
-<div align="center">
-  ⭐️ <i>Star my repos if you find them interesting!</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=100&section=footer" width="100%"/>
