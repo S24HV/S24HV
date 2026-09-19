@@ -21,9 +21,12 @@
 <img src="stack-animated.svg" width="100%" />
 
 ## Projects
-<img src="projects-animated.svg" width="100%" />
 
-[**Store**](https://github.com/S24HV/Store) · [**Portfolio**](https://github.com/S24HV/Portfolio) · [**NoteFace_Game**](https://github.com/S24HV/NoteFace_Game) · [**TodoList**](https://github.com/S24HV/TodoList) · [**Weather**](https://github.com/S24HV/Weather)
+<a href="https://github.com/S24HV/Store"><img src="project-store.svg" width="100%" /></a>
+<a href="https://github.com/S24HV/Portfolio"><img src="project-portfolio.svg" width="100%" /></a>
+<a href="https://github.com/S24HV/NoteFace_Game"><img src="project-noteface_game.svg" width="100%" /></a>
+<a href="https://github.com/S24HV/TodoList"><img src="project-todolist.svg" width="100%" /></a>
+<a href="https://github.com/S24HV/Weather"><img src="project-weather.svg" width="100%" /></a>
 
 ## Activity
 <div align="center">
