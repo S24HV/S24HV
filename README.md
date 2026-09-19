@@ -61,8 +61,10 @@ Contact: amirsuhov@gmail.com
 <img src="https://raw.githubusercontent.com/S24HV/S24HV/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=S24HV&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" />
-
-<img src="https://komarev.com/ghpvc/?username=S24HV&label=Profile+Views&color=0d1117&style=flat-square" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=90&section=footer" width="100%"/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=S24HV&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=0d1117" />
+</div>
