@@ -11,7 +11,12 @@
 </div>
 
 ## About
-I started in frontend development and moved toward offensive and defensive security — that combination is the point: understanding how software is built makes it easier to understand how it breaks.
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=680&height=170&lines=%24+whoami;S24HV+%E2%80%94+frontend+dev+turned+security+researcher;%24+cat+mission.txt;Understand+how+it%27s+built+%E2%80%94+then+understand+how+it+breaks.;%24+cat+focus.txt;Penetration+testing+%7C+Web+application+security;%24+_" />
+</div>
+
+<br/>
 
 | | |
 |---|---|
