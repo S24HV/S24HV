@@ -12,11 +12,26 @@
 
 ## About
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2600&pause=800&color=39D353&center=true&vCenter=true&width=680&height=170&lines=%24+whoami;S24HV+%E2%80%94+frontend+dev+turned+security+researcher;%24+cat+mission.txt;Understand+how+it%27s+built+%E2%80%94+then+understand+how+it+breaks.;%24+cat+focus.txt;Penetration+testing+%7C+Web+application+security;%24+cat+learning.txt;Python%2C+Bash+%E2%80%94+scripting+and+automation;%24+cat+background.txt;JavaScript%2C+TypeScript%2C+HTML%2FCSS;%24+whois+s24hv;Based+in+Tashkent%2C+Uzbekistan;%24+_" />
+```bash
+$ whoami
+S24HV — frontend dev turned security researcher
 
-📫 [amirsuhov@gmail.com](mailto:amirsuhov@gmail.com)
-</div>
+$ cat mission.txt
+Understand how it's built — then understand how it breaks.
+
+$ cat focus.txt
+Penetration testing | Web application security
+
+$ cat learning.txt
+Python, Bash — scripting and automation
+
+$ cat background.txt
+JavaScript, TypeScript, HTML/CSS
+
+$ whois s24hv
+Based in Tashkent, Uzbekistan
+Contact: amirsuhov@gmail.com
+```
 
 ## Stack
 <p>
@@ -43,6 +58,8 @@
 
 ## Activity
 <div align="center">
+<img src="https://raw.githubusercontent.com/S24HV/S24HV/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=S24HV&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%" />
 
 <img src="https://komarev.com/ghpvc/?username=S24HV&label=Profile+Views&color=0d1117&style=flat-square" />
