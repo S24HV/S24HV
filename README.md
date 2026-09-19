@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm S24HV</h1>
-<h3 align="center">Aspiring Cybersecurity Specialist · Application Security & Ethical Hacking</h3>
+<div align="center">
 
-<p align="center">
-  I bridge the gap between development and security — building secure web systems<br/>
-  and breaking them (safely) to understand how they fail.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=S24HV&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Cybersecurity%20Specialist&descAlignY=65&descSize=18&descColor=9aa0a6" width="100%"/>
+
+<a href="https://github.com/S24HV">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Application+Security+%26+Ethical+Hacking;Breaking+things+(safely)+to+understand+them;Frontend+Developer+%E2%86%92+Security+Researcher&font=Fira+Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=20" />
+</a>
+
+<p>
+  <a href="https://github.com/S24HV"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:amirsuhov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/id/S24HV/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://instagram.com/_s24hv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/S24HV">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:amirsuhov@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-### 🛡️ About Me
+## 🛡️ About Me
 
 - 🎯 Currently **studying to become a Cybersecurity Specialist**, focused on penetration testing and web application security
 - 💻 Solid background in **frontend development** (JavaScript, TypeScript, HTML/CSS)
@@ -25,9 +25,9 @@
 - 🌍 Based in Tashkent, Uzbekistan
 - 📫 Reach me at [amirsuhov@gmail.com](mailto:amirsuhov@gmail.com)
 
----
+<br/>
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Security Interests**
 
@@ -49,38 +49,46 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Store**](https://github.com/S24HV/Store) | Modern e-commerce platform with a full shopping cart flow | React, TypeScript, Vite |
-| [**Portfolio**](https://github.com/S24HV/Portfolio) | Personal portfolio site showcasing projects and skills | TypeScript |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/S24HV/Store"><b>Store</b></a></td>
+    <td>Modern e-commerce platform with a full shopping cart flow</td>
+    <td>React, TypeScript, Vite</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/S24HV/Portfolio"><b>Portfolio</b></a></td>
+    <td>Personal portfolio site showcasing projects and skills</td>
+    <td>TypeScript</td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S24HV&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S24HV&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S24HV&theme=tokyonight&hide_border=true" width="60%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S24HV&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=S24HV&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+</div>
 
-### 🔗 Connect With Me
+<br/>
 
-<p>
-  <a href="mailto:amirsuhov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://steamcommunity.com/id/S24HV/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <a href="https://instagram.com/_s24hv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<div align="center">
+  ⭐️ <i>Star my repos if you find them interesting!</i>
+</div>
 
----
-
-<p align="center">⭐️ Star my repos if you find them interesting!</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
