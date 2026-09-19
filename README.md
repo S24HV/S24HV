@@ -12,26 +12,9 @@
 
 ## About
 
-```bash
-$ whoami
-S24HV — frontend dev turned security researcher
-
-$ cat mission.txt
-Understand how it's built — then understand how it breaks.
-
-$ cat focus.txt
-Penetration testing | Web application security
-
-$ cat learning.txt
-Python, Bash — scripting and automation
-
-$ cat background.txt
-JavaScript, TypeScript, HTML/CSS
-
-$ whois s24hv
-Based in Tashkent, Uzbekistan
-Contact: amirsuhov@gmail.com
-```
+<div align="center">
+<img src="assets/about-terminal.svg" width="100%" />
+</div>
 
 ## Stack
 <p>
