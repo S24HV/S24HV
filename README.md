@@ -19,11 +19,36 @@
 
 ## 🛡️ About Me
 
-- 🎯 Currently **studying to become a Cybersecurity Specialist**, focused on penetration testing and web application security
-- 💻 Solid background in **frontend development** (JavaScript, TypeScript, HTML/CSS)
-- 🐍 Learning **Python** and **Bash** for scripting and automation
-- 🌍 Based in Tashkent, Uzbekistan
-- 📫 Reach me at [amirsuhov@gmail.com](mailto:amirsuhov@gmail.com)
+> *"You can't secure what you don't understand how to build."*
+
+I started out on the **development** side — shipping frontend apps with React and TypeScript — and I'm now moving deeper into **offensive & defensive security**. That mix is my edge: I don't just find that a form is vulnerable, I understand *why* the code makes it vulnerable.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🔭 Currently focused on**
+Penetration testing & web application security — learning how real vulnerabilities (OWASP Top 10, auth flaws, injection, misconfig) actually get exploited, not just memorizing the names.
+
+**🌱 Currently learning**
+Python & Bash, to move from clicking buttons in tools to writing my own scripts and automating recon/exploitation workflows.
+
+</td>
+<td valign="top" width="50%">
+
+**🧠 Background**
+Frontend development (JavaScript, TypeScript, HTML/CSS) — which now doubles as an advantage: I can read and reason about the code I'm attacking.
+
+**🎯 Goal**
+Becoming a well-rounded Application Security specialist — someone teams trust to *both* build securely and break things safely before attackers do.
+
+</td>
+</tr>
+</table>
+
+- 🌍 Based in **Tashkent, Uzbekistan**
+- 📫 Reach me at **[amirsuhov@gmail.com](mailto:amirsuhov@gmail.com)**
+- ⚡ Fun fact: I'd rather find the bug myself than wait for a pentest report to tell me about it
 
 <br/>
 
