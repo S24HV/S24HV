@@ -21,10 +21,9 @@
 <img src="stack-animated.svg" width="100%" />
 
 ## Projects
-| Project | Description | Stack |
-|---|---|---|
-| [**Store**](https://github.com/S24HV/Store) | E-commerce platform with a full shopping cart flow | React, TypeScript, Vite |
-| [**Portfolio**](https://github.com/S24HV/Portfolio) | Personal portfolio site | TypeScript |
+<img src="projects-animated.svg" width="100%" />
+
+[**Store**](https://github.com/S24HV/Store) · [**Portfolio**](https://github.com/S24HV/Portfolio) · [**NoteFace_Game**](https://github.com/S24HV/NoteFace_Game) · [**TodoList**](https://github.com/S24HV/TodoList) · [**Weather**](https://github.com/S24HV/Weather)
 
 ## Activity
 <div align="center">
