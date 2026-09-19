@@ -13,7 +13,7 @@
 ## About
 
 <div align="center">
-<img src="assets/about-terminal.svg" width="100%" />
+<img src="about-terminal.svg" width="100%" />
 </div>
 
 ## Stack
