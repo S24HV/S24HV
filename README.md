@@ -13,18 +13,10 @@
 ## About
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=680&height=170&lines=%24+whoami;S24HV+%E2%80%94+frontend+dev+turned+security+researcher;%24+cat+mission.txt;Understand+how+it%27s+built+%E2%80%94+then+understand+how+it+breaks.;%24+cat+focus.txt;Penetration+testing+%7C+Web+application+security;%24+_" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2600&pause=800&color=39D353&center=true&vCenter=true&width=680&height=170&lines=%24+whoami;S24HV+%E2%80%94+frontend+dev+turned+security+researcher;%24+cat+mission.txt;Understand+how+it%27s+built+%E2%80%94+then+understand+how+it+breaks.;%24+cat+focus.txt;Penetration+testing+%7C+Web+application+security;%24+cat+learning.txt;Python%2C+Bash+%E2%80%94+scripting+and+automation;%24+cat+background.txt;JavaScript%2C+TypeScript%2C+HTML%2FCSS;%24+whois+s24hv;Based+in+Tashkent%2C+Uzbekistan;%24+_" />
+
+📫 [amirsuhov@gmail.com](mailto:amirsuhov@gmail.com)
 </div>
-
-<br/>
-
-| | |
-|---|---|
-| **Focus** | Penetration testing, web application security |
-| **Learning** | Python, Bash — scripting and automation |
-| **Background** | JavaScript, TypeScript, HTML/CSS |
-| **Based in** | Tashkent, Uzbekistan |
-| **Contact** | [amirsuhov@gmail.com](mailto:amirsuhov@gmail.com) |
 
 ## Stack
 <p>
