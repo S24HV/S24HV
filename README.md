@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=150&section=header&text=S24HV&fontSize=52&fontColor=c9d1d9&animation=fadeIn&fontAlignY=42" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Application+Security+%7C+Ethical+Hacking;Penetration+Testing+%7C+Web+App+Security;Builder+first.+Breaker+second.&font=JetBrains+Mono&center=true&width=520&height=35&color=8b949e&vCenter=true&size=16&pause=2000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+%7C+React+%26+TypeScript;Building+projects+and+learning+every+day.;Cybersecurity+is+my+next+field+to+explore.&font=JetBrains+Mono&center=true&width=520&height=35&color=8b949e&vCenter=true&size=16&pause=2000" />
 
 <a href="https://github.com/S24HV"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" /></a>
 <a href="mailto:amirsuhov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=c9d1d9" /></a>
